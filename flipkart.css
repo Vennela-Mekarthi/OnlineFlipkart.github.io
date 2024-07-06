@@ -1,0 +1,167 @@
+div.button3{
+    color: aliceblue;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.matter{
+    padding:5px;
+    padding-left: 20px;
+}
+#footer{
+    background-color: rgb(18, 27, 57);
+    height: 300px;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+    padding:20px;
+    line-height: 25px;
+    }
+    p.line{
+        border-bottom: 1px solid gray;
+    }
+    div.bottom{
+        color:white;
+        padding-bottom:20px;
+        padding-left:80px;
+    }
+.copyright{
+    background-color:rgb(18, 27, 57) ;
+    margin: 0%;
+    padding-top: 0px;
+}
+#about{
+    padding-left: 30px;
+    white-space: pre;
+}
+#help{
+    padding-left: 20px;
+    white-space: pre;
+}
+#policy{
+    padding-left: 30px;
+    white-space: pre;
+}
+#social{
+    padding-left: 60px;
+    white-space: pre;
+    border-right: 1px solid rgb(78, 76, 76);
+    
+}
+#mail{
+    padding-left: 160px;
+    line-height: 20px;
+    white-space: pre;
+    
+}
+#address{
+    padding-left: 30px;
+    line-height: 20px;
+    white-space: pre;
+}
+h3{
+    color: rgb(161, 160, 160);
+    font-family: arial;
+    font-size:medium ;
+}
+p{
+    font-family: arial;
+    font-size: small;
+    color:rgb(176, 171, 171)
+}
+select#fashion{
+color:black;
+text-decoration: none;
+font-family: calibri;
+font-weight: 550;
+border-color:white;
+font-size:large;
+padding-left: 0px;
+
+}
+select#fashion:hover{
+    color:rgb(40, 73, 220);
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    border-width: 50px;
+    }
+select#electronics{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: black;
+    border-color:white;
+    font-size:large;
+    padding-left: 0px;
+
+}
+select#electronics:hover{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color:rgb(40, 73, 220);
+}
+select#home{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: black;
+    border-color:white;
+font-size:large;
+padding-left: 0px;
+
+}
+select#home:hover{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color:rgb(40, 73, 220) ;
+}
+select#beauty{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: black;
+    border-color:white;
+font-size:large;
+padding-left: 0px;
+
+}
+select#beauty:hover{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: rgb(40, 73, 220);
+}
+select#wheel{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: black;
+    border-color:white;
+font-size:large;
+padding-left: 0px;
+
+}
+select#wheel:hover{
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: 550;
+    color: rgb(40, 73, 220);
+    
+}
+div.card-body{
+    
+    text-align: center;
+}
+div.card{
+    height: 1400px;
+   
+}
+div.card:hover{
+    height: 1400px;
+    box-shadow: 2px 1px 3px 2px rgb(180, 177, 177);
+}
+
+
+    
